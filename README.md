@@ -13,6 +13,9 @@ This repo contains server-side code for the [Hackernews-Client], Client side cod
 
 Either you need to use tool like [Postman] to test the server or install and run [Hackernews-Client] to see complete working app [Preferred way]
 
+# TODO:
+  - Add user authentication using passport.js
+
    [node.js]: <https://nodejs.org/en/>
    [Postman]: <https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en>
    [Hackernews-Client]: <https://www.github.com>

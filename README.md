@@ -18,4 +18,4 @@ Either you need to use tool like [Postman] to test the server or install and run
 
    [node.js]: <https://nodejs.org/en/>
    [Postman]: <https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en>
-   [Hackernews-Client]: <https://www.github.com>
+   [Hackernews-Client]: <https://github.com/aadil058/Hackernews-Client>
